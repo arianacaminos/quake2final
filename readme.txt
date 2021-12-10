@@ -1,29 +1,26 @@
 
-This is the complete source code for Quake 2, version 3.19, buildable with
-visual C++ 6.0.  The linux version should be buildable, but we haven't
-tested it for the release.
+How to install and play my mod.
 
-The code is all licensed under the terms of the GPL (gnu public license).  
-You should read the entire license, but the gist of it is that you can do 
-anything you want with the code, including sell your new version.  The catch 
-is that if you distribute new binary versions, you are required to make the 
-entire source code available for free to everyone.
 
-The primary intent of this release is for entertainment and educational 
-purposes, but the GPL does allow commercial exploitation if you obey the 
-full license.  If you want to do something commercial and you just can't bear 
-to have your source changes released, we could still negotiate a separate 
-license agreement (for $$$), but I would encourage you to just live with the 
-GPL.
+My mod is a knockoff version of Call of Duty Gun Game. You will start with the blaster and then once you kill an enemy move onto the next gun. Once you get through all of the 
+guns without dying you win and the game will end. If you die you will start over at the beginning. Watch out because the enemies movements and helath are enhanced. 
 
-All of the Q2 data files remain copyrighted and licensed under the 
-original terms, so you cannot redistribute data from the original game, but if 
-you do a true total conversion, you can create a standalone game based on 
-this code.
+My Deliverables:
+-The game ends when you go through all the guns and kill one player with each gun 
+-The player switches through 5 different guns 
+-Enemies are spawned in with each gun change
+-Enemies health are enhanced and movements are made quicker 
+-2 customized powerups placed in the map 
 
-Thanks to Robert Duffy for doing the grunt work of building this release.
+Common Deliverables:
+-Shortcut that Auto-Launches your Mod
+-Mod in a Separate Folder
+-README file in GIT that explains HOWTO install and play / test your mod
+-UI updates reflecting your Personal Deliverables
+-Help Screen to detail how to play your mod in game
 
-John Carmack
-Id Software
 
+One way to install and play the mod is to first download the file onto your computer. You also will want to buy quake 2 and then find the folder on your computer. 
+Once you have done that you can create a shortcut of quake 2 in that file and right click on it and go to properties. Then in the target section at the end add +set game
+happiestmod. Once you have done that you just run that shortcut and will be able to access my mod and play it wheneve you like. 
 
